@@ -1,0 +1,23 @@
+{
+  "name": "electron-rebuild-test",
+  "version": "1.0.0",
+  "description": "Electron Rebuild Example",
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-cmsn",
+  "keywords": [
+    "Electron",
+    "cmsn"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "13.1.9",
+    "node-gyp": "^8.1.0"
+  },
+  "dependencies": {
+    "usb": "^1.7.1"
+  }
+}
